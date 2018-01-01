@@ -2,8 +2,8 @@
 @import url('//netdna.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.css');
 /* === Core Styles === */
 body {
-  background-color: #ffffff;
-  color: #596364; /* darker color */
+  background-color: #fff;
+  color: #333333; /* darker color */
   font-size: 15px;
   font-weight: 100;
   line-height: 1.6em;
@@ -107,7 +107,7 @@ a.archive-link,
 .article-nav,
 .terms-list {
   margin: 20px auto;
-  max-width: 600px;
+  max-width: 800px;
   width: 90%;
 }
 #site-head img {
